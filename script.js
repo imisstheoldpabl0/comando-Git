@@ -1,3 +1,8 @@
+
+function VeroMod() {
+  console.log("hi");
+}
+
 //function .filter
 
 
