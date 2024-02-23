@@ -1,3 +1,3 @@
-function Vero() {
+function VeroMod() {
   console.log("hi");
 }
